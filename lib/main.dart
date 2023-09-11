@@ -58,7 +58,7 @@ class HomeActivity extends StatelessWidget{
                leading: Icon(Icons.home),
                title: Text("Home"),
                onTap: (){
-                 MySnakBer("I am a Home",context);
+                 MySnakBer("I am  a Home",context);
                },
            ),
            ListTile(
